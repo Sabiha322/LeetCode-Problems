@@ -1,33 +1,35 @@
-﻿# 💻 LeetCode Daily Practice – C++ Solutions
+﻿
+---
 
-This repository contains my daily problem-solving practice on LeetCode using **C++**. Each folder represents a day of consistent learning with clean and simple solutions focused on improving DSA concepts.
+## 📆 Daily Progress
+
+- **Day 1** → Two Sum, Palindrome Number, Roman to Integer  
+- **Day 2** → Merge Sort (Recursive & Iterative), Valid Parentheses  
+- **Day 3** → Longest Common Prefix, Remove Duplicates from Sorted Array, Merge Sort (Recursive)  
+- **Day 4** → Valid Anagram, Best Time to Buy and Sell Stock  
+- **Day 5** → Plus One, Intersection of Two Arrays  
 
 ---
 
-## 📅 Daily Progress
+## 🛠 Tech Stack
 
-| Day   | Problems Solved                                           |
-|-------|------------------------------------------------------------|
-| Day 1 | Two Sum, Palindrome Number, Roman to Integer              |
-| Day 2 | Merge Sort (Recursive and Iterative), Valid Parentheses   |
-| Day 3 | Longest Common Prefix, Remove Duplicates from Sorted Array |
+- **Language**: C++  
+- **Tools**: GitHub Desktop, LeetCode  
+- **Concepts**: Arrays, Strings, Sorting, Stacks, Recursion, STL
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Goal
 
-- Language: **C++**
-- Platform: **LeetCode**
-- Version Control: **Git + GitHub Desktop**
+Solve problems every day. Build strong logic.  
 
 ---
 
-## ✨ What This Repo Shows
+## 🔗 Connect
 
-- ✅ Daily consistency  
-- ✅ Clean C++ code  
-- ✅ Strong DSA foundation in progress  
+- Posting regular updates on [LinkedIn](https://www.linkedin.com)
+- Let’s grow and crack it together! 💼🔥
 
-> One day at a time. One problem at a time. Let’s keep growing 🚀
+---
 
-
+> 💡 “One problem a day keeps fear away.”
