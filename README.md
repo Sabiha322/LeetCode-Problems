@@ -33,8 +33,8 @@ Welcome to my daily DSA grind! I'm on a mission to build rock-solid problem-solv
 ---
 
 **🔗 Connect With Me**  
-[**LinkedIn**](#) – Posting regular updates  
-[**GitHub**](#) – Explore my code
+[LinkedIn]: (https://www.linkedin.com/in/sabiha768/) – Posting regular updates  
+[GitHub]: (https://github.com/Sabiha322 – Explore my code
 
 ---
 
