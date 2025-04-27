@@ -1,7 +1,4 @@
-﻿Here it is in one block for easy copying and pasting:
-
----
-
+﻿
 🚀 **LeetCode Daily Challenge by Sabiha**  
 Welcome to my daily DSA grind! I'm on a mission to build rock-solid problem-solving skills and level up every single day. Follow along as I tackle LeetCode one problem at a time. Let’s grow together! 💪
 
@@ -44,7 +41,3 @@ Welcome to my daily DSA grind! I'm on a mission to build rock-solid problem-solv
 ✨ Let’s connect and grow together!  
 💡 “One problem a day keeps fear away.”  
 Keep pushing. Keep growing. You got this. 🔥
-
----
-
-Now you can just copy and paste it easily! 😊
