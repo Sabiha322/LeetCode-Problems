@@ -12,7 +12,9 @@ Welcome to my **daily DSA grind**! I'm on a mission to build rock-solid problem-
 - **Day 4** → `Valid Anagram`, `Best Time to Buy and Sell Stock`  
 - **Day 5** → `Plus One`, `Intersection of Two Arrays`  
 - **Day 6** → `Single Number`, `Contains Duplicate`  
-- **Day 7** → `strStr()`, `Concatenation of Array`, `Maximum Subarray`
+- **Day 7** → `strStr()`, `Concatenation of Array`, `Maximum Subarray` 
+- **Day 8** ->'Move Zeroes' , 'Reverse a string'
+- **Day 9** ->"Missing a Number' , 'Search a Index element'
 
 ---
 
